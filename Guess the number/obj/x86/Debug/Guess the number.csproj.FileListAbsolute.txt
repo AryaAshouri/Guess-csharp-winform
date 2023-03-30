@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Guess the number\Guess the number\bin\Debug\Guess the number.exe
+C:\Users\DELL\Desktop\Guess the number\Guess the number\bin\Debug\Guess the number.pdb
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_number.Form1.resources
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_number.Properties.Resources.resources
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess the number.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess the number.exe
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess the number.pdb
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_number.Form2.resources
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_number.Form3.resources
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_number.Form4.resources
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_number.Form5.resources
+C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess the number.csprojResolveAssemblyReference.cache

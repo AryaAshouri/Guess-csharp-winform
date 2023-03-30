@@ -10,3 +10,5 @@ C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_
 C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_number.Form4.resources
 C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess_the_number.Form5.resources
 C:\Users\DELL\Desktop\Guess the number\Guess the number\obj\x86\Debug\Guess the number.csprojResolveAssemblyReference.cache
+D:\Work\Programming\Frontend\Guess the number\Guess the number\obj\x86\Debug\Guess the number.exe
+D:\Work\Programming\Frontend\Guess the number\Guess the number\obj\x86\Debug\Guess the number.pdb
